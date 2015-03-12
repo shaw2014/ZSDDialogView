@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>80F1F883-4F1B-41ED-96F0-B892EFA67D8A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6997DC8A73744EDC7787F9A9488653DC1CFDD794</key>
+		<string>https://github.com/shaw2014/ZSDDialogView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>demo/demo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6997DC8A73744EDC7787F9A9488653DC1CFDD794</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shaw2014/ZSDDialogView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6997DC8A73744EDC7787F9A9488653DC1CFDD794</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6997DC8A73744EDC7787F9A9488653DC1CFDD794</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZSDDialogView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
